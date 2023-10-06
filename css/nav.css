@@ -111,6 +111,13 @@
     max-width: 1400px !important;
 }
 
+.owl-nav{
+    display: flex;
+    justify-content: space-between;
+    top: -67px;
+    position: relative;
+}
+
 /*footer*/
 .foot{
     background-color: #fa9611 !important;
